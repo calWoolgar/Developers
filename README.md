@@ -21,3 +21,4 @@ Cyris | https://cyris.io/ | - | https://twitter.com/sudo_overflow | https://gith
 Ellie | - | - | https://twitter.com/ellie_html | - |
 Marc | https://marc.dev/ | - | https://twitter.com/_marcba_ | - | https://github.com/themarcba
 Florin | https://www.florin-pop.com/ | https://www.youtube.com/florinpop | https://twitter.com/florinpop1705 | https://github.com/florinpop17
+Mads | https://madsbrodt.com/ | - | https://twitter.com/madsbrodt | https://github.com/mbrodt |
