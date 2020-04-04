@@ -6,7 +6,7 @@ Name | Website | YouTube | Twitter | Github |
 Francesco | http://www.francescociulla.com/#/ | - | https://twitter.com/FrancescoCiull4 | https://github.com/FrancescoXX 
 Simone | https://duiker101.net/ | - | https://twitter.com/Duiker101 | https://github.com/duiker101 
 Catalin | https://catalins.tech/ | - | https://twitter.com/catalinmpit | https://github.com/catalinpit 
-Telmo | - | - | https://twitter.com/telmo | - |
+Telmo | https://telmo.online/ | - | https://twitter.com/telmo | https://github.com/telmogoncalves |
 Danny Thompson | - | - | https://twitter.com/DThompsonDev | - |
 Can | https://www.can-ural.com/ | - | https://twitter.com/urlDev | https://github.com/urlDev 
 Ed | https://developedbyed.com/ | https://www.youtube.com/watch?v=g65N_oU0Tx0 | https://twitter.com/developedbyed | - |
